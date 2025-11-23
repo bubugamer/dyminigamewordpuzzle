@@ -1,0 +1,17 @@
+# 图片文件
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.svg
+*.webp
+*.ico
+*.tiff
+*.tif
+*.heic
+*.heif
+
+# 图片目录（如果需要排除整个目录）
+# assets/images/
+
